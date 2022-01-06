@@ -11,15 +11,21 @@ h2{
     font-family: 'Poppins', sans-serif;
     font-size: 40px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .brown-color{
 color: brown;
+
 }
 
 .blue{
-    color: rgb(10, 10, 43);
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 25px;
+    color: rgb(19, 19, 59);
 }
 
 .padding{
@@ -36,7 +42,8 @@ section{
     padding-top: 5%;
 }
 .half-width img{
-    width: 60%;
+    width: 70%;
+
 }
 .button{
     text-decoration: none;
@@ -45,4 +52,81 @@ section{
     border-radius: 5px;
     color: rgb(34, 34, 32);
 
+}
+.mission{
+    background-color: rgba(98, 187, 98, 0.185);
+    padding: 30px 20px;
+    font-family: 'Poppins', sans-serif;
+    width: 33%;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+    
+}
+
+.mission img{
+    width: 45%;
+}
+
+.vission{
+    background-color: rgba(70, 132, 136, 0.205);
+    padding: 30px 20px;
+    font-family: 'Poppins', sans-serif;
+    width: 33%;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.vission img{
+    width: 45%;
+}
+
+.goal{
+    background-color: rgba(139, 76, 131, 0.212);
+    padding: 30px 20px;
+    font-family: 'Poppins', sans-serif;
+    width: 33%;
+    margin-right: 150px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.goal img{
+    width: 45%;
+}
+
+.weight{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.documentation{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    padding-top: 30px;
+    font-weight: 700;
+}
+
+.passage{
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+
+}
+
+.background{
+    background-image: url("shape-7.png");
+    background-position:initial;
+    background-size: 350px;
+    background-repeat: no-repeat;
+}
+.footer{
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.perple-color{
+    background-color: rgb(149, 93, 151);
+    margin-top: 50px;
+    margin-left: 0%;
+    margin-right: 0%;
 }
